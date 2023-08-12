@@ -3,8 +3,9 @@ This project is used to get a prediction on past data,
 the difference in predicted value and actual value is shown using line graphs. 
 The stock ticker is entered by the user to get the required data.
  
-<img width="452" alt="Screenshot 2023-03-27 104337" src="https://user-images.githubusercontent.com/112720616/227848717-814fc683-c9b9-4f17-a226-70171343684b.png">
-<img width="593" alt="Screenshot 2023-03-27 104440" src="https://user-images.githubusercontent.com/112720616/227848758-ba69b085-c517-4de7-9eab-9da8b7ee2e6a.png">
-<img width="639" alt="Screenshot 2023-03-27 104515" src="https://user-images.githubusercontent.com/112720616/227848786-b85dcaf5-7d32-4085-aff7-660cd79cda2c.png">
-<img width="604" alt="Screenshot 2023-03-27 104543" src="https://user-images.githubusercontent.com/112720616/227848811-63f8217e-6482-441e-a469-1bfd0f2af679.png">
-<img width="571" alt="Screenshot 2023-03-27 110024" src="https://user-images.githubusercontent.com/112720616/227849072-b25cf53d-956d-427b-b823-c3201605da93.png">
+
+<img width="588" alt="pic1" src="https://github.com/Ananya-100/stock-prediction/assets/112720616/71aea612-fa3c-4e83-b879-0be14c32f854">
+<img width="579" alt="pic2" src="https://github.com/Ananya-100/stock-prediction/assets/112720616/dfba84c1-4318-44e1-a8e7-fa358b9239fb">
+<img width="554" alt="pic3" src="https://github.com/Ananya-100/stock-prediction/assets/112720616/0a2a931e-d18a-4c5e-8367-5e3a2a0f1d68">
+<img width="567" alt="pic4" src="https://github.com/Ananya-100/stock-prediction/assets/112720616/06f65d82-a30a-44c5-b2da-6254fd9dfe4e">
+<img width="572" alt="pic5" src="https://github.com/Ananya-100/stock-prediction/assets/112720616/ed68b50e-3471-4b47-acee-b19f75cb405a">
